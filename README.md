@@ -4,7 +4,7 @@ A free app landing page template for iOS or Android apps. This template was crea
 
 ## Demo
 
-A preview of this theme is available [here](https://applander-wavy-theme.netlify.app/)
+A preview of this theme is available here [https://applander-wavy-theme.netlify.app/](https://applander-wavy-theme.netlify.app/)
 
 ![Preview](wavytheme.png "Preview")
 
@@ -34,10 +34,6 @@ You should be able to run the theme with this command:
 
 The easiset deployment is to fork this repo, make your changes and deploy to Github pages or [Netlify](https://www.netlify.com/). Netlify have an easy option to deploy websites from a Github repo.
 
-## Deploy to Github Pages
-
-Simply fork this repo and the project
-
 ## Documentation
 
 Download the code and find steps to edit this template in src/config. Each file controls an aspect of the template and includes instructions.
@@ -49,3 +45,7 @@ This theme was created by [Gwinyai](https://gwinyai.com).
 ## Need Help and Customization?
 
 If you would like help with things like deployment or customization, hire me on [Fiverr](https://www.fiverr.com/gwinyai1312/create-an-app-landing-page-for-your-ios-or-android-app)
+
+## LICENSE
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE.md) for more details
