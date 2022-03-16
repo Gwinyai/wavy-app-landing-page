@@ -25,3 +25,23 @@ export const footerSection = {
     email: "hello@example.com",
   },
 };
+
+/*
+  DOCUMENTATION
+
+  --instagramLink
+  Make include "true" if you would like to include an Instagram link. Use url to specify your Instagram page.
+  --facebookLink
+  Make include "true" if you would like to include a Facebook link. Use url to specify your Facebook page.
+  --twitterLink
+  Make include "true" if you would like to include a Twitter link. Use url to specify your Twitter page.
+  --copyright
+  The copyright to your website
+  --location
+  Make include "true" to reveal this part. Make it "false" to hide.
+  --phone
+  Make include "true" to reveal this part. Make it "false" to hide.
+  --email
+  Make include "true" to reveal this part. Make it "false" to hide.
+
+*/

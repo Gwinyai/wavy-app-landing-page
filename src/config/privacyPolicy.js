@@ -9,3 +9,7 @@ export default function PrivacyPolicyText() {
     </>
   );
 }
+
+/*
+Create your privacy policy here. Use <Heading> tags to create headings. Use <SubHeading> to create a subheading. Use <Paragraph> to create a paragraph.
+*/
