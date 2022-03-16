@@ -1,19 +1,21 @@
 # Wavy App Landing Page
 
-A free app landing page template for iOS or Android apps created by [Gwinyai](https://gwinyai.com). This template was created using HTML, CSS and ReactJS.
+A free app landing page template for iOS or Android apps. This template was created using HTML, CSS and ReactJS.
+
+## Demo
+
+A preview of this theme is available [here](https://applander-wavy-theme.netlify.app/)
 
 ![Preview](wavytheme.png "Preview")
 
 ## Purpose
 
-This app landing page is meant to speed up your deployment to the App or Play Store. You can use this app landing page as a marketing page and to host your Privacy Policy or Support URL which is required by Apple submission rules.
+This app landing page can be used as a marketing page for your iOS or Android app. It can also be used to host your Privacy Policy or Support URL which is required by Apple's App Store submission rules.
 
 ## Features
 
 - Light/Dark mode functionality.
 - Responsive design to adapt to mobile and desktop devices.
-- Clean animations that enhance user experience.
-- SEO optimized to rank highly in Google.
 - Privacy Policy and Support URL pages supported.
 - Contact form for feedback from users.
 - Easy configuration that requires no code.
@@ -28,6 +30,10 @@ You should be able to run the theme with this command:
 
 `npm run start`
 
+## Deployment
+
+The easiset deployment is to fork this repo, make your changes and deploy to Github pages or [Netlify](https://www.netlify.com/). Netlify have an easy option to deploy websites from a Github repo.
+
 ## Deploy to Github Pages
 
 Simply fork this repo and the project
@@ -36,6 +42,10 @@ Simply fork this repo and the project
 
 Download the code and find steps to edit this template in src/config. Each file controls an aspect of the template and includes instructions.
 
-## Need More Customization?
+## Created By
 
-If you would like further customization or help with your app landing page, hire me on [Fiverr](https://www.fiverr.com/gwinyai1312/create-an-app-landing-page-for-your-ios-or-android-app)
+This theme was created by [Gwinyai](https://gwinyai.com).
+
+## Need Help and Customization?
+
+If you would like help with things like deployment or customization, hire me on [Fiverr](https://www.fiverr.com/gwinyai1312/create-an-app-landing-page-for-your-ios-or-android-app)
