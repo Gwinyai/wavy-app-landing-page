@@ -140,7 +140,7 @@ const Plan = styled.div`
 export default function Pricing() {
   return (
     <>
-      <PricingSection>
+      <PricingSection id="pricing">
         <PricingTitle>{pricingSection.sectionTitle}</PricingTitle>
         <PricingSubTitle>{pricingSection.sectionSubTitle}</PricingSubTitle>
         <PricingBox>

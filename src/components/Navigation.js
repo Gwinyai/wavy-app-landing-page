@@ -116,27 +116,27 @@ export default function Navigation({ changeTheme }) {
             </li>
             {sections.about && (
               <li>
-                <MainNavLink href="#">About</MainNavLink>
+                <MainNavLink href="#about">About</MainNavLink>
               </li>
             )}
             {sections.features && (
               <li>
-                <MainNavLink href="#">Features</MainNavLink>
+                <MainNavLink href="#features">Features</MainNavLink>
               </li>
             )}
             {sections.testimonials && (
               <li>
-                <MainNavLink href="#">Testimonials</MainNavLink>
+                <MainNavLink href="#testimonials">Testimonials</MainNavLink>
               </li>
             )}
             {sections.pricing && (
               <li>
-                <MainNavLink href="#">Pricing</MainNavLink>
+                <MainNavLink href="#pricing">Pricing</MainNavLink>
               </li>
             )}
             {sections.contact && (
               <li>
-                <MainNavLink className="navCta" href="#">
+                <MainNavLink className="navCta" href="#contact">
                   Contact
                 </MainNavLink>
               </li>

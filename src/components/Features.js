@@ -100,7 +100,7 @@ export default function Features({ theme }) {
   };
   return (
     <Container>
-      <FeaturesSection>
+      <FeaturesSection id="about">
         <FeaturesTitle>{aboutSection.sectionTitle}</FeaturesTitle>
         <FeaturesSubtitle>{aboutSection.sectionSubTitle}</FeaturesSubtitle>
         <FeaturesBox>

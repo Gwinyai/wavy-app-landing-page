@@ -167,7 +167,7 @@ export default function MockupCarousel({ theme }) {
 
   return (
     <>
-      <SectionWrapper>
+      <SectionWrapper id="features">
         <TopWave>
           <svg
             data-name="Layer 1"

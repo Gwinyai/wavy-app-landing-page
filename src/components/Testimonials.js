@@ -104,7 +104,7 @@ const CustomersTitle = styled.h2`
 export default function Testimonials() {
   return (
     <>
-      <TestimonialsSection>
+      <TestimonialsSection id="testimonials">
         <TestimonialsTitle>{testimonialsSection.title}</TestimonialsTitle>
         <TestimonialsSubtitle>
           {testimonialsSection.subtitle}

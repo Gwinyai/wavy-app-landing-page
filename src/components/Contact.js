@@ -162,7 +162,7 @@ export default function ContactUs() {
   };
   return (
     <>
-      <ContactSection>
+      <ContactSection id="contact">
         <Contact>
           <ContactTextBox>
             <ContactHeading>Contact Us</ContactHeading>
